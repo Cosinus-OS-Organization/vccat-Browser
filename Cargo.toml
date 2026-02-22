@@ -1,0 +1,8 @@
+[package]
+name = "vccat_browser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+wry = "0.43"
+tao = "0.30"
